@@ -1,5 +1,10 @@
 [
   {
+    "name": "导航页",
+    "url": "https://anav.ezov.de",
+    "icon": "fa fa-bars"
+  },
+  {
     "name": "博客",
     "url": "https://l1ttlebear.space",
     "icon": "fa fa-blog"
@@ -13,5 +18,5 @@
     "name": "监测",
     "url": "https://komari.l1ttlebear.link",
     "icon": "fa fa-chart-line"
-  }
+  },
 ]
