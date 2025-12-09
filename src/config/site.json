@@ -10,6 +10,11 @@
     "icon": "fa fa-blog"
   },
   {
+    "name": "Steam",
+    "url": "https://steamcommunity.com/id/zeuslluoxi/?l=chinese",
+    "icon": "fa fa-steam"
+  },
+  {
     "name": "云盘",
     "url": "https://cloud.l1ttlebear.space",
     "icon": "fa fa-cloud"
