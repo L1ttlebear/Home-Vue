@@ -20,6 +20,11 @@
     "icon": "fa fa-cloud"
   },
   {
+    "name": "图床",
+    "url": "https://img.ezov.de",
+    "icon": "fa fa-image"
+  },
+  {
     "name": "监测",
     "url": "https://komari.l1ttlebear.link",
     "icon": "fa fa-chart-line"
