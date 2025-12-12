@@ -15,6 +15,11 @@
     "icon": "fa-brands fa-steam"
   },
   {
+    "name": "News",
+    "url": "https://news.ezov.de",
+    "icon": "fa-regular fa-newspaper "
+  },
+  {
     "name": "云盘",
     "url": "https://cloud.l1ttlebear.space",
     "icon": "fa fa-cloud"
