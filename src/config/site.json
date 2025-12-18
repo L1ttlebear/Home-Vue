@@ -1,6 +1,6 @@
 [
   {
-    "name": "导航页",
+    "name": "搜索",
     "url": "https://anav.ezov.de",
     "icon": "fa fa-bars"
   },
@@ -20,14 +20,19 @@
     "icon": "fa-regular fa-newspaper "
   },
   {
-    "name": "云盘",
-    "url": "https://cloud.l1ttlebear.space",
-    "icon": "fa fa-cloud"
+    "name": "快递站",
+    "url": "https://l1ttlebear.eu.org",
+    "icon": "fa-cubes"
   },
   {
     "name": "图床",
     "url": "https://img.ezov.de",
     "icon": "fa fa-image"
+  },
+  {
+    "name": "云盘",
+    "url": "https://cloud.l1ttlebear.space",
+    "icon": "fa fa-cloud"
   },
   {
     "name": "监测",
