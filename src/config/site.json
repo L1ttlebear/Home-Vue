@@ -20,11 +20,6 @@
     "icon": "fa-sharp fa-solid fa-cubes "
   },
   {
-    "name": "Steam",
-    "url": "https://steamcommunity.com/id/zeuslluoxi/?l=chinese",
-    "icon": "fa-brands fa-steam"
-  },
-  {
     "name": "云盘",
     "url": "https://cloud.l1ttlebear.space",
     "icon": "fa fa-cloud"
