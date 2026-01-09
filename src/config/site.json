@@ -15,11 +15,6 @@
     "icon": "fa fa-image"
   },
   {
-    "name": "News",
-    "url": "https://news.ezov.de",
-    "icon": "fa-regular fa-newspaper "
-  },
-  {
     "name": "快递站",
     "url": "https://l1ttlebear.eu.org",
     "icon": "fa-sharp fa-solid fa-cubes "
@@ -39,9 +34,5 @@
     "url": "https://komari.l1ttlebear.link",
     "icon": "fa fa-chart-line"
   },
-  {
-    "name": "TV",
-    "url": "https://ezov.de5.net",
-    "icon": "fa-solid fa-tv"
-  }
+
 ]
