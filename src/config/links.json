@@ -10,6 +10,11 @@
     "icon": "fab fa-github",
     "url": "https://github.com/L1ttlebear",
     "hoverColor": "#6500fc"
+  },
+  {
+    "type": "Telegram",
+    "icon": "fab fa-telegram",
+    "url": "https://t.me/AlaricSinclair",
+    "hoverColor": "#6500fc"
   }
-
 ]
