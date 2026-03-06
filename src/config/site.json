@@ -15,19 +15,9 @@
     "icon": "fa fa-image"
   },
   {
-    "name": "快递站",
-    "url": "https://l1ttlebear.eu.org",
-    "icon": "fa-sharp fa-solid fa-cubes "
-  },
-  {
-    "name": "云盘",
-    "url": "https://cloud.l1ttlebear.space",
-    "icon": "fa fa-cloud"
-  },
-  {
-    "name": "监测",
+    "name": "探针",
     "url": "https://iccu.icu",
     "icon": "fa fa-chart-line"
-  }
+  },
 
 ]
