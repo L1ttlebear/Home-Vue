@@ -68,10 +68,10 @@ const descriptionElement = ref(null);
 
 const predefinedDescriptions = [
   "你好鸭，欢迎来到我的主页！！",
-  "随时可以联系我，期待与你交流。",
-  "愿你历尽千帆，归来仍是少年。",
+  "要拼ix吗少年,请速速联系我！",
+  "吶,永乐大帝的意思就是Happy Forever喔",
   "梦想还是要有的，万一实现了呢？",
-  "I hope you have a happy day every day."
+  "I hope you have a happy day！ every day！"
 ];
 
 let typedInstance = null;
