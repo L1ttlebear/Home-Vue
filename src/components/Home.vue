@@ -67,8 +67,8 @@ const userName = ref(import.meta.env.VITE_APP_USER_NAME);
 const descriptionElement = ref(null);
 
 const predefinedDescriptions = [
+  "要拼 ix 吗少年,请速速联系我 ！！！",
   "你好鸭，欢迎来到我的主页！！",
-  "要拼ix吗少年,请速速联系我！",
   "吶,永乐大帝的意思就是Happy Forever喔",
   "梦想还是要有的，万一实现了呢？",
   "I hope you have a happy day！ every day！"
