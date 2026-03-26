@@ -18,10 +18,5 @@
     "name": "探针",
     "url": "https://icc-u.cc",
     "icon": "fa fa-chart-line"
-  },
-  {
-    "name": "拼车列表",
-    "url": "https://share.icc-u.cc",
-    "icon": "fa-car"
   }
 ]
