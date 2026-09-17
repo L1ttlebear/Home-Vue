@@ -2,7 +2,7 @@
   {
     "type": "Email",
     "icon": "fas fa-envelope",
-    "url": "mailto:alaric@ezov.de",
+    "url": "mailto:nanako@seek.li",
     "hoverColor": "#e78b0a"
   },
   {
@@ -14,7 +14,7 @@
   {
     "type": "Telegram",
     "icon": "fab fa-telegram",
-    "url": "https://t.me/MesNANA_bot",
+    "url": "https://t.me/DomJonah",
     "hoverColor": "#1E90FF"
   }
 ]
